@@ -1,3 +1,4 @@
 <?php
-$conn = mysqli_connect("localhost","root","13823201933", "hackathron");
+$conn = mysqli_connect("localhost","pengbin","pengbin", "pengbin_db");
+
 ?>
