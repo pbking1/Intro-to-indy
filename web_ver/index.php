@@ -216,6 +216,7 @@
                 <div class="col-lg-10 col-lg-offset-1 text-center">
                     <a name="aaa"></a>
                     <h2>My Recommendation</h2>
+                    <h3>hint: Search first and the result will be normal</h3>
                     <hr class="small">
                     <div class="row">
                         <div class="col-md-6">
@@ -615,6 +616,8 @@
                                             }else{
                                                 echo "</br >no result";
                                             }
+                                        }else{
+                                            echo "no result";
                                         }
                                     ?>
                             </table>
@@ -677,6 +680,8 @@
                                             }else{
                                                 echo "</br >no result";
                                             }
+                                        }else{
+                                            echo "no result";
                                         }
                                     ?>
                                 </table>
@@ -742,6 +747,8 @@
                                             }else{
                                                 echo "</br >no result";
                                             }
+                                        }else{
+                                            echo "no result";
                                         }
                                     ?>
                                 </table>
@@ -806,6 +813,8 @@
                                             }else{
                                                 echo "</br >no result";
                                             }
+                                        }else{
+                                            echo "no result";
                                         }
                                     ?>
                                 </table>
